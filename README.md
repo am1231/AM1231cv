@@ -136,37 +136,37 @@ Activities and Interests
 I took guitar lessons for 7 years, piano lessons for 2 years and I have also studied theory of music. 
 I love hiking and dancing but what 
 I truly love, is  having a dialogue with someone who has different opinions from mine about the world.
-I like playing chess (won some trophies as a kid)
-I have an internet radio station and sometimes I do a broadcast mainly for friends. (http://bfouradio.tk/ )
+I like playing chess (won some trophies as a kid).
+I have an internet radio station and sometimes I do a broadcast mainly for friends. (http://bfouradio.tk/ ).
 I like writing. Soon I ll upload some essays on my personal blog(http://nsakellariou.com/). They ll be in Greek and the blog will change until then.
 
 
 Computer skills
 
 
-Good command of Windows XP/7/8 and linux Debian Derivatives
-Good command of Microsoft Office™ tools
-Ability to support a small network of computers
-Good command of CMS platforms like Wordpress/Joomla
-Ability on creating and debugging of large python scripts/programs (especially scraping frameworks)
-Ability of technical support on computers hardware-software
-Knowledge on computer languages:  Java, C, PHP, SQL, CSS, HTML, Bash, Assembly, Verilog and some of their frameworks
-Good command of principles of concurrent and distributing computing
-basic knowledge about Agile methodology 
-Very good understanding of  TCP/IP networking
-Version control systems (GIT)
-Databases (SQL-Server, mysql, sqlite)
+Good command of Windows XP/7/8 and linux Debian Derivatives.
+Good command of Microsoft Office™ tools.
+Ability to support a small network of computers.
+Good command of CMS platforms like Wordpress/Joomla.
+Ability on creating and debugging of large python scripts/programs (especially scraping frameworks).
+Ability of technical support on computers hardware-software.
+Knowledge on computer languages:  Java, C, PHP, SQL, CSS, HTML, Bash, Assembly, Verilog and some of their frameworks.
+Good command of principles of concurrent and distributing computing.
+basic knowledge about Agile methodology .
+Very good understanding of  TCP/IP networking.
+Version control systems (GIT).
+Databases (SQL-Server, mysql, sqlite).
 
 
 Other skills
 
-A fast learner with love for new technologies and continuous learning over them. Passion for gadgets especially smart phones and tablets 
-problem solving attitude 
-analytical skills and creativeness 
-pro-activeness 
-ability to work under strict deadlines and quality guidelines 
-personal commitment 
-willingness to learn, discover and research 
+A fast learner with love for new technologies and continuous learning over them. Passion for gadgets especially smart phones and tablets .
+Problem solving attitude. 
+Analytical skills and creativeness. 
+Pro-activeness .
+Ability to work under strict deadlines and quality guidelines. 
+Personal commitment. 
+Willingness to learn, discover and research. 
 
 Driving licence
 
